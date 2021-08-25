@@ -99,7 +99,7 @@ Deploy a single function
 $ serverless deploy function --function hello
 ```
 
-#### Running Tests
+##### Running Tests
 
 Run your tests using
 
